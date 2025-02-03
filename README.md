@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Karen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFF&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+Profile;I+Am+Passionate+Developer;And+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFF&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+GitHub+Account;I+Am+Passionate+Developer;And+Programmer)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="me.gif">
 
 ## 🙋‍♀️
 - 💻 I’m currently working on something cool :wink: ;
