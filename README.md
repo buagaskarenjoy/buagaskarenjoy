@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h1>
+<h1 align="center">Hi, I'm Karen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FFFFF&center=true&vCenter=true&width=900&height=110&lines=Welcome+to+my+GitHub+Account;I+Am+Passionate+Developer;And+Programmer)](https://git.io/typing-svg)
 
